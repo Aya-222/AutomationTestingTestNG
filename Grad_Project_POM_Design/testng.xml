@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Grad_Project_POM_Design">
+    <test name="testCase">
+        <classes>
+            <!-- فئة الاختبار للتسجيل -->
+            <class name="testCase.T01_Register">
+                <methods>
+                    <include name="TC_1"/>
+                    <include name="TC_2"/>
+                    <include name="TC_3"/>
+                </methods>
+            </class>
+
+            <!-- فئة الاختبار لتسجيل الدخول -->
+            <class name="testCase.T02_Login">
+                <methods>
+                    <include name="TC_X"/>
+                </methods>
+            </class>
+
+            <class name="testCase.T03_LandingPage">
+                <methods>
+                    <include name="TC_A"/>
+                    <include name="TC_B"/>
+                    <include name="TC_C"/>
+                </methods>
+            </class>
+
+            <class name="testCase.T04_Wishlist">
+                <methods>
+                    <include name="TC_Y"/>
+                    <include name="TC_Z"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

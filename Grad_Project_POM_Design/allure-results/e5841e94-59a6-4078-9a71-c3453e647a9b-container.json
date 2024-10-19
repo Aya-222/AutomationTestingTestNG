@@ -1,0 +1,1 @@
+{"uuid":"e5841e94-59a6-4078-9a71-c3453e647a9b","name":"testCase.T01_Register.setup","children":["1460ca34-6cae-48bd-9c45-73dd3c1abb42"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729069118136,"stop":1729069123313}],"afters":[],"start":1729069118136,"stop":1729069123314}

@@ -1,0 +1,1 @@
+{"uuid":"2b8378bf-7c4f-46d4-a59e-c75c1791b185","name":"testCase.T03_LandingPage.close","children":["9f07d5f7-3c81-43b8-a916-1af22e9a1180"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729069186404,"stop":1729069188707}],"start":1729069186404,"stop":1729069188707}
